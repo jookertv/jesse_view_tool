@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-McalisterViewTool::Renderer.copyright 'Jesse Mcalister', 'All rights reserved'
+JesseViewTool::Renderer.copyright 'Jesse Mcalister', 'All rights reserved'
 ```
 
 ## Development
