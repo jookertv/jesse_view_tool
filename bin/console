@@ -11,4 +11,4 @@ require "jesse_view_tool"
 # Pry.start
 
 require "irb"
-IRB.start
+IRB.start(__FILE__)
